@@ -51,7 +51,7 @@ function App() {
         <button onClick={() => handleClick("/")}>/</button>
 
         <button onClick={handleClear}>C</button>
-        <button onClick={handleDelete}>DEL</button>
+        <button onClick={handleDelete}>Elimi</button>
       </div>
     </div>
   );
